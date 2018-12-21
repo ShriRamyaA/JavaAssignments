@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b04b7f0-c1f3-4671-a5dc-5585c0dbb369" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/EmployeeEmail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseEight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseFive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseFour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseNine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseSeven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseSix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseTen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseEight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseFour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseNine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseSeven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/EmployeeEmailTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseEightTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseFiveTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseFourTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseNineTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseOneTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseSevenTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseSixTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseTenTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseThreeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseTwoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/unittest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/unittest.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="4b04b7f0-c1f3-4671-a5dc-5585c0dbb369" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +20,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/MemberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="95" selection-start-line="20" selection-start-column="95" selection-end-line="20" selection-end-column="95" />
+            <state relative-caret-position="105">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,11 +50,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseFiveTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseOneTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseSixTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseTwoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -100,7 +100,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -156,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -213,11 +214,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545355667159" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545365114213" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -249,37 +249,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExerciseFiveTest">
+  <component name="RunManager" selected="JUnit.MemberTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExerciseFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.ExerciseFive" />
-      <module name="unittest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExerciseSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.ExerciseSeven" />
-      <module name="unittest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -305,6 +277,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExerciseOneTest.checkPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest.pe2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.ExerciseOneTest" />
+      <option name="METHOD_NAME" value="checkPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExerciseSixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittest" />
       <extension name="coverage">
@@ -315,6 +304,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.unittest.pe2" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.ExerciseSixTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseTwoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest.pe2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.ExerciseTwoTest" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -359,19 +363,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExerciseFive" />
-      <item itemvalue="Application.ExerciseSeven" />
       <item itemvalue="JUnit.ExerciseFiveTest" />
       <item itemvalue="JUnit.ExerciseSixTest" />
       <item itemvalue="JUnit.MemberTest" />
+      <item itemvalue="JUnit.ExerciseOneTest.checkPalindrome" />
+      <item itemvalue="JUnit.ExerciseTwoTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ExerciseFiveTest" />
         <item itemvalue="JUnit.MemberTest" />
-        <item itemvalue="Application.ExerciseSeven" />
+        <item itemvalue="JUnit.ExerciseTwoTest" />
         <item itemvalue="JUnit.ExerciseSixTest" />
-        <item itemvalue="Application.ExerciseFive" />
+        <item itemvalue="JUnit.ExerciseOneTest.checkPalindrome" />
+        <item itemvalue="JUnit.ExerciseFiveTest" />
       </list>
     </recent_temporary>
   </component>
@@ -389,21 +393,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExerciseFiveTest - 2018.12.20 at 15h 13m 07s.xml">
-      <configuration name="ExerciseFiveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExerciseFiveTest - 2018.12.20 at 15h 13m 30s.xml">
-      <configuration name="ExerciseFiveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExerciseSixTest - 2018.12.20 at 15h 26m 44s.xml">
-      <configuration name="ExerciseSixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExerciseSixTest - 2018.12.20 at 15h 28m 05s.xml">
-      <configuration name="ExerciseSixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExerciseSixTest - 2018.12.20 at 15h 28m 30s.xml">
-      <configuration name="ExerciseSixTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ExerciseSixTest - 2018.12.20 at 15h 28m 59s.xml">
       <configuration name="ExerciseSixTest" configurationId="JUnit" />
     </history-entry>
@@ -419,11 +408,27 @@
     <history-entry file="ExerciseFiveTest - 2018.12.20 at 17h 52m 08s.xml">
       <configuration name="ExerciseFiveTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ExerciseFiveTest - 2018.12.21 at 09h 34m 32s.xml">
+      <configuration name="ExerciseFiveTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExerciseOneTest_checkPalindrome - 2018.12.21 at 09h 34m 43s.xml">
+      <configuration name="ExerciseOneTest.checkPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExerciseSixTest - 2018.12.21 at 09h 34m 54s.xml">
+      <configuration name="ExerciseSixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExerciseTwoTest - 2018.12.21 at 09h 35m 03s.xml">
+      <configuration name="ExerciseTwoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberTest - 2018.12.21 at 09h 35m 14s.xml">
+      <configuration name="MemberTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26177174" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -469,179 +474,29 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/EmployeeEmail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/EmployeeEmailTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseTwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseThreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseFourTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseFiveTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseSixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseSix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseEight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseEightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseNine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseNineTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseTenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseTen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseOneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/EmployeeEmail.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/EmployeeEmailTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseTwo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseTwoTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseThree.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseThreeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseFour.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseFourTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseFive.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseFiveTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseSixTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseSix.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseEight.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseEightTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseNine.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseNineTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseTenTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseTen.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseOneTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseOne.java" />
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExcerciseSevenTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseSeven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseSevenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe1/ExerciseSeven.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe1/ExerciseSevenTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -649,43 +504,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseOneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseTwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseNine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseNine.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EvenNumberTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseEight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#271#566#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseEight.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseSix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-198">
@@ -693,34 +514,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseSixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseSeven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseSeven.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseFour.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Member.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/MemberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="95" selection-start-line="20" selection-start-column="95" selection-end-line="20" selection-end-column="95" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -738,17 +537,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ExerciseFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseFiveTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseOneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseSixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ExerciseTwoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/MemberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
