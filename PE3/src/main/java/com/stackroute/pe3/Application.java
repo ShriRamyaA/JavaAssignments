@@ -6,7 +6,11 @@ public class Application {
 
 
 
+
+
         public static void main(String[] args) {
+
+
 
 //        StudentMarks studentMarksObj=new StudentMarks();
 //        studentMarksObj.acceptMarks();
