@@ -6,13 +6,9 @@
       <change beforePath="$PROJECT_DIR$/../DataMungerStep2_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../DataMungerStep2_Boilerplate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DataMungerStep3_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../DataMungerStep3_Boilerplate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DataMungerStep4_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../DataMungerStep4_Boilerplate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PE-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PE-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/training/stackroute/SortedSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/training/stackroute/SortedSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/training/stackroute/BooleanMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/training/stackroute/BooleanMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/training/stackroute/CountStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/training/stackroute/CountStringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/training/stackroute/TwoMapsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/training/stackroute/TwoMapsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,32 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/BooleanMapTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/CountStringTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state relative-caret-position="164">
+              <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="118" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/training/stackroute/BooleanMap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-183">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="25" column="108" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="108" />
             </state>
           </provider>
         </entry>
@@ -78,11 +62,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/training/stackroute/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/training/stackroute/TwoMaps.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/training/stackroute/TwoMapsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/training/stackroute/SortedSet.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/training/stackroute/CountStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/training/stackroute/BooleanMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/training/stackroute/SortedSet.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/training/stackroute/BooleanMapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/training/stackroute/CountStringTest.java" />
       </list>
     </option>
   </component>
@@ -155,7 +139,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546490159799" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546491104519" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataMungerStep1_Boilerplate (1)" />
@@ -183,7 +167,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortedSetTest">
+  <component name="RunManager" selected="JUnit.All in PE5">
+    <configuration name="All in PE5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListExplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.training.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.training.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.training.stackroute.ArrayListExplTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayListExplTest.clearArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE5" />
       <extension name="coverage">
@@ -195,22 +201,6 @@
       <option name="PACKAGE_NAME" value="com.training.stackroute" />
       <option name="MAIN_CLASS_NAME" value="com.training.stackroute.ArrayListExplTest" />
       <option name="METHOD_NAME" value="clearArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListExplTest.replaceElementTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.training.stackroute.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.training.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.training.stackroute.ArrayListExplTest" />
-      <option name="METHOD_NAME" value="replaceElementTwo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -230,7 +220,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedSetTest.sortWordsTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortedSetTest.sortWordsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE5" />
       <extension name="coverage">
         <pattern>
@@ -240,23 +230,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.training.stackroute" />
       <option name="MAIN_CLASS_NAME" value="com.training.stackroute.SortedSetTest" />
-      <option name="METHOD_NAME" value="sortWordsTwo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoMapsTest.replaceValuesThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.training.stackroute.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.training.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.training.stackroute.TwoMapsTest" />
-      <option name="METHOD_NAME" value="replaceValuesThree" />
+      <option name="METHOD_NAME" value="sortWordsOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -264,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in PE5" />
         <item itemvalue="JUnit.SortedSetTest" />
-        <item itemvalue="JUnit.SortedSetTest.sortWordsTwo" />
-        <item itemvalue="JUnit.ArrayListExplTest.replaceElementTwo" />
+        <item itemvalue="JUnit.SortedSetTest.sortWordsOne" />
+        <item itemvalue="JUnit.ArrayListExplTest" />
         <item itemvalue="JUnit.ArrayListExplTest.clearArray" />
-        <item itemvalue="JUnit.TwoMapsTest.replaceValuesThree" />
       </list>
     </recent_temporary>
   </component>
@@ -286,35 +260,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortedSetTest_sortWordsTwo - 2019.01.03 at 09h 53m 50s.xml">
-      <configuration name="SortedSetTest.sortWordsTwo" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest_replaceElementOne - 2019.01.03 at 10h 13m 00s.xml">
+      <configuration name="ArrayListExplTest.replaceElementOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortedSetTest_sortWordsTwo - 2019.01.03 at 09h 54m 25s.xml">
-      <configuration name="SortedSetTest.sortWordsTwo" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest - 2019.01.03 at 10h 16m 33s.xml">
+      <configuration name="ArrayListExplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortedSetTest_sortWordsTwo - 2019.01.03 at 09h 55m 45s.xml">
-      <configuration name="SortedSetTest.sortWordsTwo" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest_replaceElementOne - 2019.01.03 at 10h 16m 48s.xml">
+      <configuration name="ArrayListExplTest.replaceElementOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortedSetTest_sortWordsTwo - 2019.01.03 at 09h 57m 04s.xml">
-      <configuration name="SortedSetTest.sortWordsTwo" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest_replaceElementTwo - 2019.01.03 at 10h 16m 55s.xml">
+      <configuration name="ArrayListExplTest.replaceElementTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortedSetTest_sortWordsTwo - 2019.01.03 at 09h 59m 56s.xml">
-      <configuration name="SortedSetTest.sortWordsTwo" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest_replaceElementTwo - 2019.01.03 at 10h 18m 32s.xml">
+      <configuration name="ArrayListExplTest.replaceElementTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortedSetTest_sortWordsTwo - 2019.01.03 at 10h 00m 23s.xml">
-      <configuration name="SortedSetTest.sortWordsTwo" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest_replaceElementTwo - 2019.01.03 at 10h 18m 41s.xml">
+      <configuration name="ArrayListExplTest.replaceElementTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortedSetTest_sortWordsTwo - 2019.01.03 at 10h 00m 55s.xml">
-      <configuration name="SortedSetTest.sortWordsTwo" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest_replaceElementTwo - 2019.01.03 at 10h 19m 35s.xml">
+      <configuration name="ArrayListExplTest.replaceElementTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortedSetTest_sortWordsTwo - 2019.01.03 at 10h 01m 52s.xml">
-      <configuration name="SortedSetTest.sortWordsTwo" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest_clearArray - 2019.01.03 at 10h 19m 40s.xml">
+      <configuration name="ArrayListExplTest.clearArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortedSetTest_sortWordsTwo - 2019.01.03 at 10h 02m 09s.xml">
-      <configuration name="SortedSetTest.sortWordsTwo" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest_clearArray - 2019.01.03 at 10h 20m 01s.xml">
+      <configuration name="ArrayListExplTest.clearArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortedSetTest - 2019.01.03 at 10h 02m 17s.xml">
-      <configuration name="SortedSetTest" configurationId="JUnit" />
+    <history-entry file="ArrayListExplTest - 2019.01.03 at 10h 20m 06s.xml">
+      <configuration name="ArrayListExplTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -391,16 +365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/stackroute/ArrayListExpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/training/stackroute/SortedSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -411,24 +375,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/stackroute/ArrayListExpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/TwoMapsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -444,8 +397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/BooleanMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        <state relative-caret-position="207">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -453,6 +406,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/TwoMapsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="108" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="118" />
         </state>
       </provider>
     </entry>

@@ -4,6 +4,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 import static org.junit.Assert.*;
 
@@ -20,11 +21,7 @@ public class SortedSetTest {
 
     @Test
     public void sortWordsOne() {
-        expectedArray.add("Alice");
-        expectedArray.add("Bluto");
-        expectedArray.add("Eugene");
-        expectedArray.add("Harry");
-        expectedArray.add("Olive");
+        expectedArray= new ArrayList<String>(Arrays.asList(new String[]{"Alice", "Bluto", "Eugene","Harry","Olive"}));
         assertEquals(expectedArray,sortedSetObj.sortWords("Harry Olive Alice Bluto Eugene"));
     }
 
