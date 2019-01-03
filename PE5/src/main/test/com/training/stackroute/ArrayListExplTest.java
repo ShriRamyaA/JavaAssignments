@@ -9,10 +9,17 @@ import static org.junit.Assert.*;
 
 public class ArrayListExplTest {
 
+    private ArrayListExpl arrayListExplObj;
+    private ArrayList<String> expectedArray;
+
+    @Before
+    public void setUp(){
+        arrayListExplObj=new ArrayListExpl();
+        expectedArray=new ArrayList<>();
+    }
+
     @Test
-    public void replaceElement() {
-        ArrayListExpl arrayListExplObj=new ArrayListExpl();
-        ArrayList<String> expectedArray=new ArrayList<>();
+    public void replaceElementOne() {
         expectedArray.add("Kiwi");
         expectedArray.add("Grape");
         expectedArray.add("Mango");
@@ -24,6 +31,13 @@ public class ArrayListExplTest {
         testArray.add("Berry");
 
         assertEquals(expectedArray, arrayListExplObj.replaceElement(testArray,"Apple","Kiwi"));
+    }
+
+    @Test
+    public void replaceElementTwo() {
+        ArrayList<String> testArray=new ArrayList<>();
+        assertEquals(expectedArray, arrayListExplObj.replaceElement(testArray,"Apple","Kiwi"));
+        assertEquals(expectedArray, arrayListExplObj.replaceElement(testArray,"","Kiwi"));
     }
 
     @Test

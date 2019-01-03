@@ -18,13 +18,19 @@ public class SortedSet extends TreeSet<String> {
             }
         });
 
-        String[] splitString =toBeSorted.split(" ");
-        for(String eachWord:splitString){
-            sortedTreeSet.add(eachWord);
+        if(toBeSorted==null){
+            return null;
         }
-
-        sortedArrayList.addAll(sortedTreeSet);
-        return sortedArrayList;
+        else if(toBeSorted.equals("")){
+            return sortedArrayList;
+        }else {
+            String[] splitString = toBeSorted.split(" ");
+            for (String eachWord : splitString) {
+                sortedTreeSet.add(eachWord);
+            }
+            sortedArrayList.addAll(sortedTreeSet);
+            return sortedArrayList;
+        }
     }
 
 
