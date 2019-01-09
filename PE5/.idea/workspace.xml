@@ -7,8 +7,6 @@
       <change beforePath="$PROJECT_DIR$/../DataMungerStep3_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../DataMungerStep3_Boilerplate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DataMungerStep4_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../DataMungerStep4_Boilerplate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="118" />
+            <state relative-caret-position="60">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -32,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="25" column="108" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="108" />
+              <caret line="25" column="108" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="108" />
             </state>
           </provider>
         </entry>
@@ -139,10 +137,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546491104519" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546498181204" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataMungerStep1_Boilerplate (1)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webappProject" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -260,15 +258,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayListExplTest_replaceElementOne - 2019.01.03 at 10h 13m 00s.xml">
-      <configuration name="ArrayListExplTest.replaceElementOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayListExplTest - 2019.01.03 at 10h 16m 33s.xml">
-      <configuration name="ArrayListExplTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayListExplTest_replaceElementOne - 2019.01.03 at 10h 16m 48s.xml">
-      <configuration name="ArrayListExplTest.replaceElementOne" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArrayListExplTest_replaceElementTwo - 2019.01.03 at 10h 16m 55s.xml">
       <configuration name="ArrayListExplTest.replaceElementTwo" configurationId="JUnit" />
     </history-entry>
@@ -290,10 +279,18 @@
     <history-entry file="ArrayListExplTest - 2019.01.03 at 10h 20m 06s.xml">
       <configuration name="ArrayListExplTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SortedSetTest_sortWordsOne - 2019.01.03 at 10h 21m 25s.xml">
+      <configuration name="SortedSetTest.sortWordsOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedSetTest - 2019.01.03 at 10h 21m 33s.xml">
+      <configuration name="SortedSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_PE5 - 2019.01.03 at 10h 21m 45s.xml">
+      <configuration name="All in PE5" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -304,7 +301,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,14 +416,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/ArrayListExplTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="25" column="108" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="108" />
+          <caret line="25" column="108" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="108" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/training/stackroute/SortedSetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="118" />
+        <state relative-caret-position="60">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
